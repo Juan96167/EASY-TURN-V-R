@@ -81,9 +81,10 @@ h5 {
 }
 
 .logo {
-    width: 250px;
-    height: 150;
-    vertical-align: center;
+    display: block;
+    margin: 0 auto;
+    width: 500px;
+    height: 200px;
 }
 
 h1 {
@@ -91,5 +92,9 @@ h1 {
 }
 
 .tecnologia h3 {
+    text-align: center;
+}
+
+.tecnologia h5 {
     text-align: center;
 }
